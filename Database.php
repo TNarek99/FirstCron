@@ -5,7 +5,7 @@ class Database
     const HOST = "localhost";
     const DATABASE = "crone";
     const USERNAME = "root";
-    const PASSWORD = "qrtmnkl1205";
+    const PASSWORD = "pass";
 
     /**
      * @var PDO
